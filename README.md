@@ -6,7 +6,7 @@
 3. Run the convert.bat or use the task from vscode
 
 
-You also need to install pandoc and latex
+You also need to install pandoc and latex(TexLive works great on windows)
 
 # Useful stuff
 
