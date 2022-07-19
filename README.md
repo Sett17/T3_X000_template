@@ -1,4 +1,5 @@
 # Things needed to get started
+0.1. Better BibTex plugins installed in zotero
 
 1. Get pandoc-fignos and paste the path to `pandoc-fignos.exe` inside of [convert.bat](./convert.bat)
 2. Create a Front Page and a declaration pdf and set the paths inside of [config.tex](./tex/config.tex)
